@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jimpfaff
-- 👀 I’m interested in programming and philosophy
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in theology, programming, and philosophy
+- 🌱 I’m currently intermediate in Pythonts
 - 📫 How to reach me jim@innovativedata.us
 
 <!---
